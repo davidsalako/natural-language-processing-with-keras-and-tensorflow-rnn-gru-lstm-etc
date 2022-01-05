@@ -49,6 +49,6 @@ The dataset has the following columns:
 
 There are 14,640 rows and 15 columns. 
 
-===================================================================================================================================
+==================================================================================================
 
 The 'glove.6B.100d.txt' text file can be downloded from the Stanford University website (https://nlp.stanford.edu/projects/glove/).
